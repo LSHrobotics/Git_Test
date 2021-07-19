@@ -11,4 +11,5 @@ void main()
 	printf("%d", b);
 	printf("%d", c);
 
+	printf("어제 날씨는 좋습니다.");
 }
