@@ -11,4 +11,5 @@ void main()
 	printf("%d", b);
 	printf("%d", c);
 	printf("Today");
+	printf("yesterday");
 }
