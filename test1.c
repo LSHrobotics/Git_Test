@@ -15,5 +15,5 @@ void main()
 	printf("Yesterday");
 	printf("2days ago");
 	printf("1");
-
+	printf("2");
 }
