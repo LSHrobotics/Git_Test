@@ -12,4 +12,6 @@ void main()
 	printf("%d", c);
 	printf("Today");
 	printf("yesterday");
+	printf("Yesterday");
+	printf("2days ago");
 }
