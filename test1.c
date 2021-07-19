@@ -10,5 +10,5 @@ void main()
 	int c = 1;
 	printf("%d", b);
 	printf("%d", c);
-
+	printf("Today");
 }
