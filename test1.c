@@ -17,5 +17,6 @@ void main()
 
 	printf("4");
 	printf("1");
+	printf("2");
 	
 }
