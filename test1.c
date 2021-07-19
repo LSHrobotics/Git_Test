@@ -16,4 +16,6 @@ void main()
 	printf("2days ago");
 
 	printf("4");
+	printf("1");
+	
 }
